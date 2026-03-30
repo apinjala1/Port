@@ -13,10 +13,13 @@ const projects = [
   {
     id: 2,
     title: "Orbit Analytics Dashboard",
+    title: "Snakes and Apples",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/project2.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
+    image: "/projects/snakesApples.png",
+    tags: ["Python", "PyGame"],
     demoUrl: "#",
     githubUrl: "#",
   },
