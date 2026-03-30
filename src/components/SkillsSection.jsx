@@ -4,21 +4,21 @@ import { cn } from "@/lib/utils";
 const skills = [
 
   // Backend
-  { name: "Java", level: 80, category: "backend" },
-  { name: "Python", level: 85, category: "backend" },
+  { name: "Java", level: 65, category: "backend" },
+  { name: "Python", level: 75, category: "backend" },
   { name: "PostgreSQL", level: 75, category: "backend" },
-  { name: "MSSQL", level: 90, category: "backend" },
+  { name: "MSSQL", level: 75, category: "backend" },
 
     // Frontend
   { name: "HTML/CSS", level: 60, category: "frontend" },
   { name: "JavaScript", level: 65, category: "frontend" },
-  { name: "React", level: 90, category: "frontend" },
-  { name: "Tailwind CSS", level: 90, category: "frontend" },
+  { name: "React", level: 70, category: "frontend" },
+  { name: "Tailwind CSS", level: 70, category: "frontend" },
 
   // Tools
-  { name: "Git/GitHub", level: 90, category: "tools" },
-  { name: "Docker", level: 70, category: "tools" },
-  { name: "AWS/EC2", level: 85, category: "tools" },
+  { name: "Git/GitHub", level: 80, category: "tools" },
+  { name: "Docker", level: 85, category: "tools" },
+  { name: "AWS/EC2", level: 80, category: "tools" },
   { name: "IntelliJ", level: 95, category: "tools" },
 ];
 
